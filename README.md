@@ -33,10 +33,10 @@ git clone https://github.com/7464864/book-list.git
 ```
 book-list/
 ├── README.md
-└── 书单工作流1-book/
-    ├── MANIFEST.yml
-    └── workflow/
-        └── book-draft.yaml
+├── 书单工作流1-book/
+│   ├── MANIFEST.yml
+│   └── workflow/
+│       └── book-draft.yaml
 └── 书单工作流2-book1/
     ├── MANIFEST.yml
     └── workflow/
