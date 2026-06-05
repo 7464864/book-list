@@ -1,0 +1,11 @@
+type: Workflow
+version: 1.0.0
+main:
+    id: 7647844110334558242
+    name: book1
+    desc: S100视频工作流：一键生成海林爱读书工作流
+    icon: FileBizType.BIZ_BOT_WORKFLOW/2755852210538331_1760624843038070344_HWFyegmP8t.jpg
+    version: ""
+    flowMode: 0
+    commitId: ""
+sub: []
