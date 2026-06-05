@@ -16,7 +16,7 @@ Coze（扣子）书单视频自动化工作流集合。
 
 ### 导入到 Coze 平台
 
-1. 打开 https://www.coze.cn
+1. 打开 https://code.coze.cn
 2. 进入工作空间 → 工作流
 3. 点击「导入」
 4. 选择对应的 `.yaml` 文件导入
